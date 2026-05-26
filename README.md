@@ -86,3 +86,9 @@ This project is licensed under the [MIT License](LICENSE).
 
 This work was supported by the COPCOT project (ANR-22-CE38-0003), funded by the French National Research Agency (ANR).
 
+The implementation of the Multiple Comparison Matrix (MCM) was inspired by the work of the authors of:
+
+- https://github.com/MSD-IRIMAS/Multi_Comparison_Matrix 
+
+We thank the authors for making their implementation publicly available.
+
