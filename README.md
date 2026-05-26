@@ -57,6 +57,26 @@ Each .csv file should follow a three-line structure for each sequence:
 <question_id_1>,<question_id_2>,...
 <correctness_1>,<correctness_2>,...
 
+---
+## Citation
 
+If you use KTBench in your research, please cite our paper:
 
+```bibtex
+@conference{csedu26,
+  author={Anass {El Ayady} and Maxime Devanne and Germain Forestier and Nour {El Mawas}},
+  title={KTBench: A Unified Evaluation Framework for Deep Knowledge Tracing},
+  booktitle={Proceedings of the 18th International Conference on Computer Supported Education - Volume 1: CSEDU},
+  year={2026},
+  pages={106-117},
+  publisher={SciTePress},
+  organization={INSTICC},
+  doi={10.5220/0014823100004021},
+  isbn={978-989-758-833-4},
+  issn={2184-5026}
+}
+
+## License
+
+This project is licensed under the MIT License.
 ```
