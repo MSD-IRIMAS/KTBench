@@ -74,7 +74,9 @@ If you use KTBench in your research, please cite our paper:
   doi={10.5220/0014823100004021},
   isbn={978-989-758-833-4},
   issn={2184-5026}
-}```
+}
+```
+
 ---
 ## License
 
