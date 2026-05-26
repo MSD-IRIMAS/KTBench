@@ -84,5 +84,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgement
 
-This work was supported by the COPCOT project(ANR-22-CE38-0003), funded by the French National Research Agency (ANR).
+This work was supported by the COPCOT project (ANR-22-CE38-0003), funded by the French National Research Agency (ANR).
 
