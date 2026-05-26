@@ -75,7 +75,7 @@ If you use KTBench in your research, please cite our paper:
   isbn={978-989-758-833-4},
   issn={2184-5026}
 }```
-
+---
 ## License
 
 This project is licensed under the MIT License.
